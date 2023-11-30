@@ -1,0 +1,78 @@
+
+
+body{
+	width:700px;
+margin:100px;      
+  padding :80px;
+}
+#container
+{
+	max-width:800px;
+	height:450px;
+  border: 1px solid black;
+  
+}	
+#img{
+	width:240px;
+	height:350px;
+	padding:50px;
+	margin:20px;
+	flex:1;          
+position:relative;
+left:-25px;
+bottom:23px;
+background-color:black;
+
+}
+
+
+#para1{
+font-family: Monospace;
+font-weight:300px;
+letter-spacing:.5em;
+margin:-10px;
+padding:20px;
+}
+	
+	
+#des{
+	width:240px;
+	height:350px;
+	padding:50px;
+	margin:20px;
+	flex:1;
+position:relative:
+left:-25px;
+bottom:23px;
+}
+#rate{
+	
+	color:green;
+	font-size:45px;
+	font-family:sans-serif;
+	
+}
+#rate span{
+margin:25px;
+text-align-content:center;
+color:black;
+font-size:20px;}
+
+
+#cart{
+	width:300px;
+	height:50px;
+	border-radius:5px;
+	background-color:green;
+	display:flex;
+	 justify-content: center;
+padding:15px;
+	
+}	
+	
+
+
+#cart img{
+	color:black;
+
+}
